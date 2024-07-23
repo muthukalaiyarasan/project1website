@@ -1,0 +1,140 @@
+@media(max-width:576px){
+	.mentor h1 a{
+		color:red;
+	}
+	 .navpar ul li{
+		display:none;
+	}
+.col-sm-1{
+     width:8.33%;
+     padding:0 15px;
+     }
+	 .col-sm-2{
+     width:16.66%;
+     padding:0 15px;
+     }
+	 .col-sm-3{
+     width:25%;
+     padding:0 15px;
+     }
+	 .col-sm-4{
+     width:33.33%;
+     padding:0 15px;
+     }
+	 .col-sm-5{
+     width:41.66%;
+     padding:0 15px;
+     }
+	 .col-sm-6{
+     width:50%;
+     padding:0 15px;
+     }
+	 .col-sm-7{
+     width:58.33%;
+     padding:0 15px;
+     }
+	 .col-sm-8{
+     width:66.66%;
+     padding:0 15px;
+     }
+	 .col-sm-9{
+     width:75%;
+     padding:0 15px;
+     }
+	 .col-sm-10{
+     width:83.33%;
+     padding:0 15px;
+	 }
+	 .col-sm-11{
+     width:91.66%;
+     padding:0 15px;
+     }
+	 .col-sm-12{
+     width:100%;
+     padding:0 15px;
+     }
+	 .order-1{
+		 order:1;
+	 }
+	 .order-2{
+		 order:2;
+	 }
+	 .order-3{
+		 /* order:1; */
+	 }
+	 .order-4{
+		 order:2;
+	 }
+	 .kkk1{
+		 order:1;
+	 }
+	 .kkk2{
+		 order:2;
+	 }
+	 .kkk3{
+		 order:3;
+	 }
+	 .kkk4{
+		 order:4;
+	 }
+	 .mmm1{
+		 order:1;
+	 }
+	 .mmm2{
+		 order:2;
+	 }
+	 .mmm3{
+		 order:3;
+	 }
+	 .mmm4{
+		 order:4;
+	 }
+	 .mmm5{
+		 order:5;
+	 }
+	 .mmm6{
+		 order:6;
+	 }
+	 .mmm7{
+		 order:7;
+	 }
+	 .mmm8{
+		 order:8;
+	 }
+	 .mmm9{
+		 order:9;
+	 }
+	 .mmm10{
+		 order:10;
+	 }
+	 .mmm11{
+		 order:11;
+	 }
+	 .mmm12{
+		 order:12;
+	 }
+	 .friend{
+		 order:1;
+	 }
+	 .friend1{
+		 order:2;
+	 }
+	 .friend2 {
+			order:3;
+	 }
+	 .arange{
+		 order:1;
+	 }
+	 .arange1{
+		 order:2;
+	 }
+	 .arange2{
+		 order:3;
+	 }
+	 
+	 
+		 
+}
+
+
+	
